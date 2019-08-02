@@ -1,0 +1,12 @@
+.ipynb_checkpoints
+.cache
+.config
+.ipython
+.jupyter
+.local
+
+*.key
+*.model
+
+youtube-new.zip
+subreddit-interactions-for-25000-users.zip
